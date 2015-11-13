@@ -1,0 +1,2 @@
+C:\Users\1012746\AppData\Local\Temporary Projects\Aho-Corasick Algorithm\bin\Debug\Aho-Corasick Algorithm.exe.config
+C:\Users\1012746\Desktop\Aho-Corasick Algorithm\Aho-Corasick Algorithm\bin\Debug\Aho-Corasick Algorithm.exe.config
